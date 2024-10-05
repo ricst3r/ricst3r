@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi there! 👋 I'm Ric,
 
-<!--
-**ricst3r/ricst3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full-Stack Developer with a love for crafting clean, efficient, and user-friendly web applications. 
+After completing the Le Wagon Full Stack Development Bootcamp, I’ve been diving deep into the world of web development, 
+and I’m constantly pushing myself to learn new technologies and build awesome projects!
 
-Here are some ideas to get you started:
+🔭 Currently working on: Enhancing my portfolio with some exciting new projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning: Exploring React, Node.js, and diving into Cloud Computing ☁️
+
+💡 Interested in: Solving real-world problems with code and contributing to open-source projects.
+
+🤝 Open to collaborating on innovative projects and ideas!
+
+⚡ Fun fact: When I’m not coding, you can find me surfing 🏄🏽 or playing basketball 🏀
+
+
+Let’s connect and create something amazing together!
+
+Feel free to check out my repositories below or reach out to me!
